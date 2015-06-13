@@ -1,4 +1,4 @@
 mindful
 =======
 
-Tracking day-to-day mental health status.
+Tracking day-to-day feels.
